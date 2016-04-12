@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drk_button">#83df44</color>
+    <color name="lgt_button">#4aa70a</color>    
+    <color name="black_alpha">#919a9c</color>
+    
+    <color name="red">#ff0000</color>
+    <color name="blue">#0000ff</color>
+    <color name="black">#000000</color>
+    
+    
+</resources>
