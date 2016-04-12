@@ -1,3 +1,14 @@
+## Description
+This code is android gps traccer version based on traccar, addon feature is registration
+and add auto number id generated from server.
+
+This application is alpha, prototype version, maybe still have some buggy codes.
+
+tested under gennymotion in localpc hosted and xampp windows environtment.
+
+
+## howto create git repository (in local pc)
+
 git init .
 
 git add README.md
