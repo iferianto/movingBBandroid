@@ -14,3 +14,22 @@ need to edit src/Konfigurasi.java
 public static final String REGISTRATION_URL="http://10.0.3.2/banner/backend/index.php?r=regandroid&key=secret";
 
 it must be set to the ip of gps server
+
+##android version willbe do something like this:
+
+1. registration to server, user will get autoid of application
+
+2. application will act as gps tracker,send position to server
+
+3. there is two button inside this application, start and stop button
+
+4. start will start tracking and send gps on move (periodic time interval)
+
+5. stop will stop tracking and query to server via json webservice
+
+6. calculation is done in server (database trigger level on insert)
+
+7. calculation process in server is just summaries credit point of users
+
+8. result is displayed in application
+
